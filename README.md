@@ -22,12 +22,11 @@
   * If you choose the Express API route for the full 10 points, you are **not required** to write async tests to your API
 * organize your tests into appropriate describe/test blocks for test output readability
    
-## BONSUS POINTS: Up to to 4 bonus points
- * Utilize Express to implement a **GET** route for your `inorder` traversal function that will traverse through the tree we built in the `main.js` module in the `src` directory
+## BONSUS POINTS: Up to to 3 bonus points
+ * Utilize Express to implement a **GET** route for your `inorder` traversal function that will traverse through the tree we built in lecture
  ### /api/inorder
-   * Should return a JSON string of the node's values when visisted in an inorder traversal: `6, 8, 7, 9, 2, 1 ,4, 3, 5`
-* Create `GET` routes for the two other traversal functions we wrote in class, `preorder` and `postorder`, and return a JSON string of those nodes' values
-* Write tests for your `GET` routes by making Superagent requests
+   * Should return a 200 status code JSON string of the node's values when visited in an inorder traversal: `6, 8, 7, 9, 2, 1 ,4, 3, 5`
+* Write tests for your `GET` route by making Superagent requests
 
 ####  Documentation
 If you are going to make an Express API for this lab for the bonus, follow the standard guideline of previous Labs 11-14 for proper API documentation. Please include Big Oh space and time complexity for traversal of your binary tree. 
