@@ -19,7 +19,6 @@
    
  #### Testing
 * write at least two test assertions for each method of the Binary Tree Data Structure
-  * If you choose the Express API route for the full 10 points, you are **not required** to write async tests to your API
 * organize your tests into appropriate describe/test blocks for test output readability
    
 ## BONUS POINTS: Up to to 3 bonus points
