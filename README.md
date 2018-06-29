@@ -18,7 +18,7 @@
       * For example : `6,8,7,9,2,1,4,3,5`
    
  #### Testing
-* write at least two test assertions for each method of the Binary Tree Data Structure
+* write at least one test assertion for each method of the Binary Tree Data Structure
 * organize your tests into appropriate describe/test blocks for test output readability
    
 ## BONUS POINTS: Up to to 3 bonus points
