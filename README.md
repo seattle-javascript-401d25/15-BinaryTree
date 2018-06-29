@@ -22,7 +22,7 @@
   * If you choose the Express API route for the full 10 points, you are **not required** to write async tests to your API
 * organize your tests into appropriate describe/test blocks for test output readability
    
-## BONSUS POINTS: Up to to 3 bonus points
+## BONUS POINTS: Up to to 3 bonus points
  * Utilize Express to implement a **GET** route for your `inorder` traversal function that will traverse through the tree we built in lecture
  ### /api/inorder
    * Should return a 200 status code JSON string of the node's values when visited in an inorder traversal: `6, 8, 7, 9, 2, 1 ,4, 3, 5`
